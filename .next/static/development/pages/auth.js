@@ -1070,7 +1070,7 @@ var index = function index() {
 
 /***/ }),
 
-/***/ 3:
+/***/ 1:
 /*!***************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fauth&absolutePagePath=C%3A%5CUsers%5Cuser%5CDesktop%5CWorkSpace%5Cgraphcms%5Cpages%5Cauth%5Cindex.js ***!
   \***************************************************************************************************************************************************/
@@ -1093,5 +1093,5 @@ module.exports = dll_3681e7fd756237ce51c6;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]));;
+},[[1,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=auth.js.map
