@@ -1,4 +1,4 @@
-((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\auth.js"],{
+webpackHotUpdate("static\\development\\pages\\auth.js",{
 
 /***/ "./components/User.js":
 /*!****************************!*\
@@ -19,56 +19,33 @@ var _jsxFileName = "C:\\Users\\user\\Desktop\\WorkSpace\\graphcms\\components\\U
 
 var User = function User(props) {
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    className: "jsx-623456514",
+    className: "jsx-731617002",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
-    className: "jsx-623456514",
+    className: "jsx-731617002",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
     },
     __self: this
   }, " ", props.name, " "), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
-    className: "jsx-623456514",
+    className: "jsx-731617002",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
     },
     __self: this
   }, "Age: ", props.age, " "), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "623456514",
+    id: "731617002",
     __self: this
-  }, "div.jsx-623456514{border:1px solid #eee;box-shadow:0 2p 3px #ccc;padding:20px;text-align:center;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcdXNlclxcRGVza3RvcFxcV29ya1NwYWNlXFxncmFwaGNtc1xcY29tcG9uZW50c1xcVXNlci5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFTTyxBQUVpQyxzQkFDRyx5QkFDWixhQUNLLGtCQUV0QiIsImZpbGUiOiJDOlxcVXNlcnNcXHVzZXJcXERlc2t0b3BcXFdvcmtTcGFjZVxcZ3JhcGhjbXNcXGNvbXBvbmVudHNcXFVzZXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnO1xyXG5cclxuXHJcbmNvbnN0IFVzZXIgPSAocHJvcHMpID0+IHtcclxuICByZXR1cm4gKFxyXG4gICAgPGRpdj5cclxuICAgICAgPGgxPiB7cHJvcHMubmFtZX0gPC9oMT5cclxuICAgICAgPHA+QWdlOiB7cHJvcHMuYWdlfSA8L3A+XHJcbiAgICAgIDxzdHlsZSBqc3g+XHJcbiAgICAgIHtgIGRpdiB7XHJcbiAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjZWVlO1xyXG4gICAgICAgICAgYm94LXNoYWRvdzogMCAycCAzcHggI2NjYztcclxuICAgICAgICAgIHBhZGRpbmc6IDIwcHg7XHJcbiAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcblxyXG4gICAgICB9YH1cclxuICAgICAgPC9zdHlsZT5cclxuXHJcblxyXG4gICAgPC9kaXY+XHJcbiAgKVxyXG59XHJcblxyXG5leHBvcnQgZGVmYXVsdCBVc2VyXHJcbiJdfQ== */\n/*@ sourceURL=C:\\Users\\user\\Desktop\\WorkSpace\\graphcms\\components\\User.js */"));
+  }, "div.jsx-731617002{border:1px solid #eee;box-shadow:0 2p 3px #ccc;padding:20px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcdXNlclxcRGVza3RvcFxcV29ya1NwYWNlXFxncmFwaGNtc1xcY29tcG9uZW50c1xcVXNlci5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFTTyxBQUVpQyxzQkFDRyx5QkFDWixhQUVqQiIsImZpbGUiOiJDOlxcVXNlcnNcXHVzZXJcXERlc2t0b3BcXFdvcmtTcGFjZVxcZ3JhcGhjbXNcXGNvbXBvbmVudHNcXFVzZXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnO1xyXG5cclxuXHJcbmNvbnN0IFVzZXIgPSAocHJvcHMpID0+IHtcclxuICByZXR1cm4gKFxyXG4gICAgPGRpdj5cclxuICAgICAgPGgxPiB7cHJvcHMubmFtZX0gPC9oMT5cclxuICAgICAgPHA+QWdlOiB7cHJvcHMuYWdlfSA8L3A+XHJcbiAgICAgIDxzdHlsZSBqc3g+XHJcbiAgICAgIHtgIGRpdiB7XHJcbiAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjZWVlO1xyXG4gICAgICAgICAgYm94LXNoYWRvdzogMCAycCAzcHggI2NjYztcclxuICAgICAgICAgIHBhZGRpbmc6IDIwcHg7XHJcblxyXG4gICAgICB9YH1cclxuICAgICAgPC9zdHlsZT5cclxuXHJcblxyXG4gICAgPC9kaXY+XHJcbiAgKVxyXG59XHJcblxyXG5leHBvcnQgZGVmYXVsdCBVc2VyXHJcbiJdfQ== */\n/*@ sourceURL=C:\\Users\\user\\Desktop\\WorkSpace\\graphcms\\components\\User.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (User);
-
-/***/ }),
-
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fauth&absolutePagePath=C%3A%5CUsers%5Cuser%5CDesktop%5CWorkSpace%5Cgraphcms%5Cpages%5Cauth%5Cindex.js!./":
-/*!***********************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fauth&absolutePagePath=C%3A%5CUsers%5Cuser%5CDesktop%5CWorkSpace%5Cgraphcms%5Cpages%5Cauth%5Cindex.js ***!
-  \***********************************************************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-
-    (window.__NEXT_P=window.__NEXT_P||[]).push(["/auth", function() {
-      var page = __webpack_require__(/*! ./pages/auth/index.js */ "./pages/auth/index.js")
-      if(true) {
-        module.hot.accept(/*! ./pages/auth/index.js */ "./pages/auth/index.js", function() {
-          if(!next.router.components["/auth"]) return
-          var updatedPage = __webpack_require__(/*! ./pages/auth/index.js */ "./pages/auth/index.js")
-          next.router.update("/auth", updatedPage.default || updatedPage)
-        })
-      }
-      return { page: page.default || page }
-    }]);
-  
 
 /***/ }),
 
@@ -264,17 +241,6 @@ process.chdir = function (dir) {
 };
 process.umask = function() { return 0; };
 
-
-/***/ }),
-
-/***/ "./node_modules/react/index.js":
-/*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_3681e7fd756237ce51c6 ***!
-  \*******************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = (__webpack_require__(/*! dll-reference dll_3681e7fd756237ce51c6 */ "dll-reference dll_3681e7fd756237ce51c6"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -1024,74 +990,7 @@ function invariant(condition, message) {
 module.exports = __webpack_require__(/*! ./dist/style */ "./node_modules/styled-jsx/dist/style.js")
 
 
-/***/ }),
-
-/***/ "./pages/auth/index.js":
-/*!*****************************!*\
-  !*** ./pages/auth/index.js ***!
-  \*****************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _components_User__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../components/User */ "./components/User.js");
-var _jsxFileName = "C:\\Users\\user\\Desktop\\WorkSpace\\graphcms\\pages\\auth\\index.js";
-
-
-
-var index = function index() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, " Auth Index page "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_User__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    name: "Waga",
-    age: 32,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }));
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (index);
-
-/***/ }),
-
-/***/ 3:
-/*!***************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fauth&absolutePagePath=C%3A%5CUsers%5Cuser%5CDesktop%5CWorkSpace%5Cgraphcms%5Cpages%5Cauth%5Cindex.js ***!
-  \***************************************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fauth&absolutePagePath=C%3A%5CUsers%5Cuser%5CDesktop%5CWorkSpace%5Cgraphcms%5Cpages%5Cauth%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fauth&absolutePagePath=C%3A%5CUsers%5Cuser%5CDesktop%5CWorkSpace%5Cgraphcms%5Cpages%5Cauth%5Cindex.js!./");
-
-
-/***/ }),
-
-/***/ "dll-reference dll_3681e7fd756237ce51c6":
-/*!*******************************************!*\
-  !*** external "dll_3681e7fd756237ce51c6" ***!
-  \*******************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = dll_3681e7fd756237ce51c6;
-
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]));;
-//# sourceMappingURL=auth.js.map
+})
+//# sourceMappingURL=auth.js.f02b3684b98b1dcf09e0.hot-update.js.map
